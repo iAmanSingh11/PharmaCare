@@ -13,7 +13,7 @@ The project follows a scalable MERN architecture with separate frontend and back
 
 ##  Demo
 
-**Live Website:** *(Link)*
+**Live Website:** *(https://pharmacare-steel.vercel.app/)*
 
 
 ## Tech Stack
