@@ -211,7 +211,7 @@ cd backend
 npm install
 
 
-reate a .env file inside the backend directory and add the following environment variables:
+create a .env file inside the backend directory and add the following environment variables:
 
 MONGO_URI
 JWT_ACCESS_SECRET
@@ -232,10 +232,7 @@ Start the backend server:
 
 npm run dev
 
-Backend runs on:
-
-http://localhost:5000
-
+Backend will start running
 ---
 
 ## Frontend Setup
@@ -247,10 +244,7 @@ cp .env.example .env
 npm run dev
 ```
 
-Frontend runs on:
-
-```
-http://localhost:5173
+Frontend will start running
 ```
 
 
@@ -291,5 +285,4 @@ This project also improved my understanding of writing modular backend code, org
 
 If you'd like to discuss the project or have any suggestions, feel free to connect with me.
 
-**LinkedIn:** *(Link)*
-
+##Linkedin id : https://www.linkedin.com/in/iamansingh11
