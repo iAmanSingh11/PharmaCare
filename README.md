@@ -1,4 +1,4 @@
-# PharmaCare 
+8# PharmaCare 
 
 A full stack pharmacy management platform built using the MERN stack.
 
@@ -285,4 +285,4 @@ This project also improved my understanding of writing modular backend code, org
 
 If you'd like to discuss the project or have any suggestions, feel free to connect with me.
 
-**Linkedin:** (https://www.linkedin.com/in/iamansingh11)
+**Linkedin:** https://www.linkedin.com/in/iamansingh11
